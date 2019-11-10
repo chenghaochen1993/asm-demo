@@ -1,6 +1,6 @@
 package com.cch.asmdemo.test;
 
-import com.cch.asmdemo.core.ClassPrinter;
+import com.cch.asmdemo.visitor.ClassPrinter;
 import org.junit.Test;
 import org.objectweb.asm.ClassReader;
 

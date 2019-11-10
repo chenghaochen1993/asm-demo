@@ -25,4 +25,8 @@ public class Enginer extends Staff {
     public void accept()throws Exception {
         System.out.println("accept");
     }
+
+    public void test(String name){
+        System.out.println("name:"+name);
+    }
 }
